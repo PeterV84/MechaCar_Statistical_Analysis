@@ -24,3 +24,15 @@ The Variance of the coils is 62.2 which is far below the suspension minimum of 1
 The variance when considering lots is more varied with Lot 3. Lots 1 and 2 have a very low PSI variance, with lot 1 having a variance less than 1 and lot 2 having a variance of less than 10. Lot 3 has a variance of 170 which is nearly double the amount of PSI that the design specifications require. Lot 3 would not pass the requirements.
 
 ![Screen Shot 2022-07-27 at 6 22 08 PM](https://user-images.githubusercontent.com/100393032/181400018-0e1ee50e-ecfd-4a6f-94c5-5963314e4aef.png)
+
+## T-Tests on Suspension Coils!
+
+[Screen Shot 2022-07-27 at 6 56 16 PM](https://user-images.githubusercontent.com/100393032/181403528-5f13520e-3a7b-4210-bc69-89f979014afd.png)
+
+The standard PSI is 1500/ All PSI= 0.06028
+
+Lot 1 PSI= 1 
+Lot 2 PSI= 0.6072 
+Lot 3 PSI= 0.04168 
+
+ Lot 3 is significantly different. All other lots perform well within the parameters to the standard 1500 PSI. 

@@ -14,6 +14,7 @@ The P-Value is less than 0 so there is no slope
 # Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 The R-squared is almost 72% which would make the prediction of mpg effective.
 
+## Summary Statistics on Suspension Coils
 # The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 The Variance of the coils is 62.2 which is far below the suspension minimum of 100. In total this makes the current manufacturing data reach well below the required specifications.
